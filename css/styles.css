@@ -1,0 +1,33 @@
+/* Simple style definitions */
+
+
+/* Define a style for the body tag */
+body{
+    background-color:powderblue;
+}
+
+
+/* Define a style for all h1 tags */
+h1{
+    text-align: center;
+    color:blue;
+}
+
+
+/* Define a style for a specific identity,
+in this case an image */
+
+#kungfu-poh-img{
+    height:100px;
+    width:100px;
+    float:right;
+}
+
+
+/* Define a style for a specific identity,
+in this case an image */
+
+#valley-of-peace-img{
+    width:600px;
+    height:480px;
+}
